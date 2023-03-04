@@ -100,7 +100,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>This is the Home Page</h1>
+         <h1>This is the all prodcts Home Page sale starts at 12:00pm</h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="dowloads"><h1>This is the download</h1></section>
