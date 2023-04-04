@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:32px;margin-right:10px;color:white">Welcome to our allshopoutlet Website for latest offers</span>
+            <span style="font-size:32px;margin-right:10px;color:white">Welcome to our SAME Website for latest offers</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -100,7 +100,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>This is the all prodcts Home Page sale starts at 12:00pm</h1>
+         <h1>This is the all course Home Page sale starts at 12:00pm</h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="dowloads"><h1>This is the download</h1></section>
